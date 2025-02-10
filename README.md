@@ -1,4 +1,4 @@
-This project explores Authentication services like Passport, Google Authentication in, Node.js, to access secrets page.
+This project explores Authentication services like Passport, Google Authentication in Node.js, to access secrets page.
 The user information along with any typed secret is stored in database named secrets and table named as users using postgreSQL.
 
 SQL for Table users:
